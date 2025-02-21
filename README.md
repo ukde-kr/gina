@@ -3,7 +3,7 @@
 Plans!
 -----
 - 🦜🔗 Get a basic understanding of [LangChain](https://www.langchain.com/) so I can talk like a pro.
-- 📚 complete [this Udemy course](https://digitalhypercomp.udemy.com/course/langchain/learn/lecture/38288884#content)
+- 📚 complete [this Udemy course](https://digitalhypercomp.udemy.com/course/langchain/learn/lecture/38288884#content)!
 - 📝 Summarize what my learnings in a blog.
 - 💡 build a simple 'ice breaker' tool to help people share fun facts about themselves!
   
